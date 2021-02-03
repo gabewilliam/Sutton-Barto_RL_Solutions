@@ -5,4 +5,4 @@ I do not claim that these solutions are correct, and they should not be used as 
 
 [Chapter 2 Solutions](/Ch2.html)
 
-<sup>1<sup>: Sutton, R. S., Barto, A. G., & Bach, F. (2018). Reinforcement Learning: An Introduction (second edition). MIT Press. http://incompleteideas.net/book/the-book-2nd.html
+1: Sutton, R. S., Barto, A. G., & Bach, F. (2018). Reinforcement Learning: An Introduction (second edition). MIT Press. http://incompleteideas.net/book/the-book-2nd.html
