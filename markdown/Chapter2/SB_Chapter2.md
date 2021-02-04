@@ -1,5 +1,9 @@
 # Chapter 2 - Multi-armed Bandits
 
+From *Sutton, R. S., Barto, A. G., & Bach, F. (2018). Chapter 2: Multi-armed Bandits. In Reinforcement Learning: An Introduction (second edition, pp. 25–46). MIT Press. http://incompleteideas.net/book/the-book-2nd.html*
+
+Solutions by Gabe Haddon-Hill
+
 ## Exercise 2.1 ##
 **Q:** _'In $\epsilon$-greedy action selection, for the case of two actions and $\epsilon=0.5$, what is the probability that the greedy action is selected?'_
 
